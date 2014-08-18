@@ -1,0 +1,1 @@
+This is my solution for the Halloween Party Problem from Hacker Rank.
